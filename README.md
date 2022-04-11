@@ -1,4 +1,4 @@
-ù# FE07B_progetto_settimana11
+# FE07B_progetto_settimana11
 
 SPA (Single page application) Carrello acquisti con Angular e Bootstrap 
 
