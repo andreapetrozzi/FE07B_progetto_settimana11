@@ -1,4 +1,28 @@
-# Progetto11
+ù# FE07B_progetto_settimana11
+
+SPA (Single page application) Carrello acquisti con Angular e Bootstrap 
+
+DESCRIZIONE
+Il progetto consiste in una serie di prodotti richiamati dal file JSON, 
+utilizzando l’api http://localhost:4201/products 
+inseribili in un carrello dove si può completare l'acquisto con l'aggiunta dei dati per la spedizione.
+
+NB: Sul terminale istallare
+
+npm i
+npm i bootstrap
+
+npm run full-stack
+![immagine](https://user-images.githubusercontent.com/98649610/162750658-3afc8e77-d1e2-4bcd-9853-3409a0007f00.png)
+
+
+![1](https://user-images.githubusercontent.com/98649610/162751637-dab0d335-805b-4fd0-bf4e-246d7be3a9a5.JPG)
+
+
+
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
