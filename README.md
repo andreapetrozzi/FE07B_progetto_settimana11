@@ -15,11 +15,7 @@ Furthermore, you will be able to see the cart, and once the order is completed, 
 - `npm i bootstrap`
 - `npm run full-stack`
 
-
-### Screenshot application #1
-![immagine](https://user-images.githubusercontent.com/98649610/162750658-3afc8e77-d1e2-4bcd-9853-3409a0007f00.png)
-
-### Screenshot application #2
+### Screenshot application
 ![1](https://user-images.githubusercontent.com/98649610/162751637-dab0d335-805b-4fd0-bf4e-246d7be3a9a5.JPG)
 
 
