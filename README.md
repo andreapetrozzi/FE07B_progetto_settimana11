@@ -2,20 +2,24 @@
 
 SPA (Single page application) Carrello acquisti con Angular e Bootstrap 
 
-DESCRIZIONE
-Il progetto consiste in una serie di prodotti richiamati dal file JSON, 
-utilizzando l’api http://localhost:4201/products 
-inseribili in un carrello dove si può completare l'acquisto con l'aggiunta dei dati per la spedizione.
+### Description
 
-NB: Sul terminale istallare
+Series of products retrieved from the JSON file, using the "http://localhost:4201/products" API.
+These products can be placed in a shopping cart where you can complete the purchase by adding the shipping data.
+Only use ES6 within an Angular app.
 
-npm i
-npm i bootstrap
+Furthermore, you will be able to see the cart, and once the order is completed, you will have to clean it up. Finally, upload the project to Bitbucket.
 
-npm run full-stack
+### Terminal commands:
+- `npm i`
+- `npm i bootstrap`
+- `npm run full-stack`
+
+
+### Screenshot application #1
 ![immagine](https://user-images.githubusercontent.com/98649610/162750658-3afc8e77-d1e2-4bcd-9853-3409a0007f00.png)
 
-
+### Screenshot application #2
 ![1](https://user-images.githubusercontent.com/98649610/162751637-dab0d335-805b-4fd0-bf4e-246d7be3a9a5.JPG)
 
 
